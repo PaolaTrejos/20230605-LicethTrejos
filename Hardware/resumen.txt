@@ -1,0 +1,3 @@
+- Memoria RAM.
+- SSD.
+- GPU.
